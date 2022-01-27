@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 604 *ll*
+chmod 604 -R ../
