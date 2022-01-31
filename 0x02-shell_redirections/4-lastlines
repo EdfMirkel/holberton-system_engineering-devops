@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 head /etc/passwd
+=======
+tail /etc/passwd
+>>>>>>> 625453cc0ab3a65bca83d3aeead210f456a08022
