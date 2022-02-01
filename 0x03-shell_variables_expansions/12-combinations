@@ -1,2 +1,2 @@
 #!/bin/bash
-set[] = {'a', 'b'}, k = 2
+set[] = {'a', 'b'}, k = 2 | grep -v "oo"
