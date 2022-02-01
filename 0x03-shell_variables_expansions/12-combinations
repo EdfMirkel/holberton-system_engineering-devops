@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} \n
+set[] = {'a', 'b'}, k = 2
