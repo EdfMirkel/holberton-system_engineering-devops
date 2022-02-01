@@ -1,3 +1,2 @@
 #!/bin/bash
 echo {a,A}{n,N}{p,P}{z,Z}
-
