@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc- o c $CFI
+gcc -o c $CFILE
